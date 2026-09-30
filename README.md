@@ -16,4 +16,4 @@ Take AI-built MVPs (Lovable, Bolt, v0, Cursor) to production: auth, billing, dep
 
 ## Contact
 
-larik2174@gmail.com · Reddit: u/Alternative-Year-430
+larik2174@gmail.com
